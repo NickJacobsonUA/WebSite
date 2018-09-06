@@ -85,7 +85,9 @@
 								<p> 
 								During my self-development i realized that the educational program in my University is too old
 								for getting actual knowledge, therefore i don't think it will helpful in future for me, so all that i
-								have to do is self-developing. Nobody teaches you better than you.</p>
+								have to do is self-developing. Nobody teaches you better than you.
+							for getting actual knowledge, therefore i don't think it will helpful in future for me, so all that i
+								have to do is self-developing. Nobody teaches you better than you</p>
 								<br>
 								<hr class="style14">
 								<br>
